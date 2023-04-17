@@ -9,7 +9,7 @@
             ]
         }
     },
-    "job/list/sort-by-date": [
+    "job-list-sort-by-date": [
         {
             "updateDate": "2023-04-17T15:00:20.657Z",
             "_id": "643d1480d6fbf5b140d6be42",
