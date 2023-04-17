@@ -1,11 +1,12 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
+    "job": {
+        "list": {
+            "search": [
+                {
+                    "id": 1,
+                    "name": "test"
+                }
+            ]
+        }
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }
